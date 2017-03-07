@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 
-/*
+/*_
     "  ABSDEFGHIJ      ABSDEFGHIJ "
    ," .__________.    .__________."
    ,"0|          |   0|          |"
